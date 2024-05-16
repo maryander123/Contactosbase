@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "f9f3",
+      "username": "maryan"
+    },
+    {
+      "id": "8544",
+      "username": "Nazareth"
+    }
+  ],
+  "contactos": [
+    {
+      "id": "c1a8",
+      "nombre": "Maryander T",
+      "telefono": "04268646485",
+      "edit": true,
+      "user": "maryan"
+    },
+    {
+      "id": "2251",
+      "nombre": "Alejandra T",
+      "telefono": "04125789456",
+      "edit": false,
+      "user": "maryan"
+    },
+    {
+      "id": "4c03",
+      "nombre": "Alejo T",
+      "telefono": "04125789456",
+      "edit": false,
+      "user": "maryan"
+    }
+  ]
+}

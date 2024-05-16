@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/servidor"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../todos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "home"
+	}
+}
